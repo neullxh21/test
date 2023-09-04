@@ -8,5 +8,13 @@ week02
   git config --global user.email"you@example.com"
   git config --global user.name"Your Name"
   git config --global --list
-  git commit =m "
+  git commit -m "v1"
   git log
+  git checkout hashcode
+  git checkout -
+  git branch -M main
+  git remote add origin https://github.com/
+  git remote -v
+  git push -u origin main
+
+  
