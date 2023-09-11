@@ -1,5 +1,5 @@
 package main
 
-funtion mian(){
-  printLn("Hello Go!")
+func mian(){
+  println("Hello Go!")
   }
